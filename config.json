@@ -1,12 +1,12 @@
 {
-    "ip": "",
-    "port": "",
-    "name": "katy",
+    "ip": "Indianigm.aternos.me",
+    "port": "64959",
+    "name": "chomulaunda",
     "auto-night-skip": "false",
     "prefix": "",
     "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "register-cmd": "/login chomu0#2022 chomu0#2022",
+    "login-cmd": "/login chomu0#2022",
+    "loginmsg": "Hello Guys Kese Ho IGM bhai ke channel ko Subscribe kiya ya nahi?",
     "auto-reconnect": "true"
 }
