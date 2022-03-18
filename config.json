@@ -1,9 +1,9 @@
 {
     "ip": "Indianigm.aternos.me",
     "port": "64959",
-    "name": "chomulaunda",
+    "name": "chomu",
     "auto-night-skip": "false",
-    "prefix": "",
+    "prefix": "+",
     "login-enabled": "true",
     "register-cmd": "/login chomu0#2022 chomu0#2022",
     "login-cmd": "/login chomu0#2022",
